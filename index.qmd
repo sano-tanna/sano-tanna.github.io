@@ -4,6 +4,8 @@ title: "sano-tanna.github.io"
 
 This is a Quarto website.
 
+six seven
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
