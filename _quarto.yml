@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "sano-tanna.github.io"
+  title: "Sano Tanna"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
 
+      
 format:
   html:
+    page-layout: full
     theme:
-      - cosmo
-      - brand
+      dark: darkly
+      light: minty
     css: styles.css
     toc: true
 

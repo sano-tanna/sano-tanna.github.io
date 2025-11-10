@@ -1,0 +1,116 @@
+---
+title: "Resume"
+format: html
+page-layout: full
+---
+
+::: resume-header
+**SANO TANNA**\
+Honolulu, HI • (808) 389-8316 • [sanatanna04\@gmail.com](mailto:sanatanna04@gmail.com)
+:::
+
+------------------------------------------------------------------------
+
+## Professional Summary {.resume-section}
+
+Student leader pursuing a degree in Environmental Studies, combining scientific inquiry with leadership and service. Experienced in campus governance, environmental projects, and mentoring peers toward sustainable, community-based solutions.
+
+------------------------------------------------------------------------
+
+## Education {.resume-section}
+
+**Chaminade University of Honolulu – Honolulu, HI**\
+*Bachelor of Arts in Environmental Studies* — Expected May 2026
+
+-   Ho‘oulu STEM Scholar • Experiential Honors Program Scholar\
+-   GPA: 3.80 • Dean’s / Principal’s List & Honor Roll
+
+**Saint Louis School – Honolulu, HI**\
+- High School Diploma, May 2022
+
+------------------------------------------------------------------------
+
+## Experience {.resume-section}
+
+### NM Research Assistant – Chaminade University Field & Lab Technician
+
+*2022 – 2023*
+
+-   Conducted environmental fieldwork and supported ongoing lab research.\
+-   Assisted with data collection, analysis, and reporting.\
+-   Maintained organized lab records and contributed to research presentations.
+
+### Assistant Paddling Coach – Saint Louis School Varsity & Junior Varsity
+
+*2022 – 2023*
+
+-   Mentored and trained high school paddling athletes.\
+-   Encouraged teamwork, strategy, and discipline during practices and events.
+
+### Research Assistant – Paʻepae o Heʻeia / Waiokū Field and Web Technician
+
+*2025 – Present*
+
+-   Collected environmental field data and assisted with ongoing research projects.\
+-   Updated digital data collection tools and maintained a project website.
+
+### Remodeling Contractor – Oahu Renovations and Plumbing
+
+*2023 – 2025*
+
+-   Assisted with plumbing, construction, and renovation in residential homes.\
+-   Helped implement safety procedures and quality standards on job sites.
+
+### Tutor and eGaming Coach – Jarrett Middle School
+
+*2023 – Present*
+
+-   Supported middle school students in academic skills and subject-specific tutoring.\
+-   Coached and mentored students in competitive gaming, emphasizing communication, leadership, and collaboration.\
+-   Designed and implemented training programs, practices, and tournaments.
+
+------------------------------------------------------------------------
+
+## Leadership & Campus Involvement {.resume-section}
+
+**Chaminade University of Honolulu**
+
+-   **Finance Vice President, 2025 – 2026** – Oversaw the school’s budget for the year; assisted student organizations with funding requests.\
+-   **Vice President, UNAC Club, 2023 – Present** – Organized educational events to promote UN Sustainable Development Goals.\
+-   **Student Organization Senator, 2023 – 2025** – Represented student groups and participated in policy discussions.\
+-   **Finance Committee Member, 2023 – 2025** – Evaluated and allocated funding for campus clubs and initiatives.\
+-   **Treasurer, Swords eSports Team, 2024 – Present** – Managed finances and organized events that build campus community through gaming.
+
+**Saint Louis School**
+
+-   **Varsity Paddling Captain, 2021 – 2022** – Led team operations, fostered unity, and guided peers.\
+-   **Junior Varsity Paddling Captain, 2018 – 2020** – Promoted skill development and sportsmanship among younger athletes.
+
+**Professional Gaming & Community**
+
+-   **Captain, Professional Gaming Club, 2019 – 2022** – Coordinated competitive tournaments and team strategy sessions.\
+-   **Community Engagement, KAI Programs (ʻIolani School), 2016 – Present** – Participated in hours of academic enrichment and leadership training.\
+-   **Kamehameha Scholars Program, 2018 – 2022** – Engaged in college readiness workshops and cultural programming.
+
+------------------------------------------------------------------------
+
+## Awards & Honors {.resume-section}
+
+-   Ho‘oulu STEM Scholarship Recipient\
+-   APIA / Danaher Foundation Scholar, 2023\
+-   Hoʻoulu STEM Scholar\
+-   KAI Program Graduate, 2021
+
+------------------------------------------------------------------------
+
+## Skills & Interests {.resume-section}
+
+**Technical & Academic:** Environmental science research, fieldwork, data collection & analysis, report writing.\
+**Leadership:** Mentorship, student government, budget management, event planning, team development.\
+**Personal Interests:** Environmental science, sustainability, community outreach, competitive gaming & eSports team development.
+
+------------------------------------------------------------------------
+
+## References {.resume-section}
+
+Available upon request.

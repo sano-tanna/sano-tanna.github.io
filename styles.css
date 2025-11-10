@@ -1,1 +1,24 @@
 /* css styles */
+/* Skill badge styling */
+.skills { 
+  margin-top: 0.75rem;
+}
+
+.skill-badge {
+  display: inline-block;
+  padding: 0.35rem 0.6rem;
+  margin: 0.25rem 0.35rem 0.25rem 0;
+  border-radius: 9999px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  background: #2563eb;
+  color: #fff;
+}
+
+/* Light vs dark mode contrast */
+:root.light .skill-badge { 
+  background: #1f6feb; 
+}
+:root.dark .skill-badge { 
+  background: #2563eb; 
+}

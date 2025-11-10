@@ -1,13 +1,54 @@
 ---
-title: "sano-tanna.github.io"
+title: "Sano Tanna"
+image: media/headshot.png
+about: 
+  template: trestles
+  image-width: 15em
+  links: 
+    - icon: github
+      href: http://github.com/sano-tanna
+      target: blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/sano-tanna-b30ba0287
+      target: blank
 ---
 
-This is a Quarto website.
+## Skills
 
-six seven
+::::: columns
+::: column
+### Technical
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   R
+-   GIS & spatial analysis
+-   Quarto & R Markdown
+-   Data visualization
+-   Insanely proficient in Rocket League and Arc Raiders. (ex semi-pro for apex legends as well)
+:::
 
-```{r}
-1 + 1
-```
+::: column
+### Environmental & Field
+
+-   Water quality sampling
+-   Vegetation & soil surveys
+-   GPS & basic drone mapping
+-   Community outreach & education
+:::
+:::::
+
+## Featured Projects
+
+### Honolulu Coastal Water Quality Monitoring
+
+-   Collected and analyzed water samples for turbidity and nutrient levels.
+-   Built R-based visualizations to communicate trends to classmates and mentors/professors.
+
+## Get in Touch
+
+-   📧 sanotanna04\@gmail.com\
+-   🌎 Based in Honolulu, HI\
+-   Open to internships and research opportunities related to **environmental data analysis, sustainability, and education**.
+
+------------------------------------------------------------------------
+
+I am an Environmental Studies student at Chaminade University of Honolulu (Class of 2026) with a passion for sustainability, education, and community leadership. As a Ho'oulu STEM Scholar and Experiential Honors Program participant, I’ve gained hands-on experience in environmental research, fieldwork, and data analysis.

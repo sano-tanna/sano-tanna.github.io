@@ -1,9 +1,87 @@
 ---
-title: "About"
+title: "Work Experience"
 ---
 
-About this site
+### Federal Work Study Tutor
 
-```{r}
-1 + 1
-```
+**Chaminade University of Honolulu \| Aug 2024 to Present**\
+
+Honolulu, Hawai‘i
+
+-   Support middle school students in developing academic skills across core subjects
+
+-   Provide individualized instruction to reinforce comprehension and study habits
+
+-   Foster a positive learning environment that builds confidence and growth\
+
+    **Skills:** Tutoring, Mentoring, Communication, Curriculum Support
+
+------------------------------------------------------------------------
+
+### eSports Coach
+
+**William Paul Jarrett Middle School \| Aug 2024 to Present**\
+
+Honolulu, Hawai‘i
+
+-   Coach students in competitive gaming with focus on teamwork and sportsmanship
+
+-   Develop training strategies and support individual skill growth
+
+-   Coordinate practices, scrimmages, and tournaments\
+
+    **Skills:** Youth Development, Leadership, Event Coordination, Team Building
+
+------------------------------------------------------------------------
+
+### Field and Web Technician (Future Internship)
+
+**Pa‘epa‘e o Waikolu \| Summer 2025**\
+
+Mokoli‘i (Kalaupapa) / remote
+
+-   Conduct environmental fieldwork and assist in data collection and analysis
+
+-   Support lab research and invasive species management
+
+-   Help update organizational data systems and website\
+
+    **Skills:** Field Research, Environmental Monitoring, Data Analysis, Web Support
+
+------------------------------------------------------------------------
+
+### Farm Manager
+
+**Waimānalo Country Farms \| May 2023 to Jul 2024**
+
+-   Cared for cattle and supported daily farm operations
+
+-   Monitored animal health and assisted with feed schedules\
+
+    **Skills:** Animal Care, Responsibility, Communication, Hard Work
+
+------------------------------------------------------------------------
+
+### Assistant Coach, Paddling
+
+**Saint Louis School \| 2022 to 2023**
+
+-   Trained and motivated high school athletes in paddling technique and discipline
+
+<!-- -->
+
+-   Encouraged teamwork, strategy, and resilience
+
+------------------------------------------------------------------------
+
+### Field Laboratory Technician / NSM Research Assistant
+
+**Chaminade University \| 2022 to 2023**
+
+-   Supported environmental research and lab work
+
+-   Collected and analyzed environmental data
+
+-   Prepared reports and assisted faculty researchers\
+
+    **Skills:** Scientific Methods, Field Sampling, Data Entry, Collaboration
